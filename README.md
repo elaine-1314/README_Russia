@@ -24,7 +24,7 @@ BLIKVM — это прикладная плата CM4 для [PiKVM](https://pik
 | --------------------------------------------- | ------------------------------------------ |
 | <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/2-1.png" alt="drawing"/> | <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/2-2.png" alt="drawing"/> |
 
-Here is a brief introduction. For details, please click <a href="https://github.com/ThomasVon2021/pikvm-CM4-Board/wiki#features" target="_blank">WiKi</a>
+Вот краткое введение. Для получения подробной информации, пожалуйста, нажмите <a href="https://github.com/ThomasVon2021/pikvm-CM4-Board/wiki#features" target="_blank">WiKi</a>
 1. **HDMI IN** port with I2S
 2. **ATX** controller interface (power on/off, reboot control, PWR and HDD ACT LEDs)
 3. **USB3.0 port**  x 2
