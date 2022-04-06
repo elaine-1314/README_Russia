@@ -13,7 +13,7 @@
 
 ## 1.Введение
 
-BLIKVM — это прикладная плата CM4 для [PiKVM](https://pikvm.org/). Основные функции этого продукта включают захват видео, адаптер ATX, USB 3.0, OTG, Gigabit Ethernet, OLED и RTC. Продукт имеет индивидуальную металлическую оболочку для отвода тепла и защиты печатной платы. Это видео с демонстрацией возможностей.[video](https://www.youtube.com/watch?v=d7I9l5yG5M8).В настоящее время продукт полностью совместим с[**v3-hdmi-rpi4-latest.img**](https://files.pikvm.org/images/v3-hdmi-rpi4-latest.img.xz).
+BLIKVM — это прикладная плата CM4 для [PiKVM](https://pikvm.org/). Основные функции этого продукта включают захват видео, адаптер ATX, USB 3.0, OTG, Gigabit Ethernet, OLED и RTC. Продукт имеет индивидуальную металлическую оболочку для отвода тепла и защиты печатной платы. Это [видео](https://www.youtube.com/watch?v=d7I9l5yG5M8) с демонстрацией возможностей.В настоящее время продукт полностью совместим с [**v3-hdmi-rpi4-latest.img**](https://files.pikvm.org/images/v3-hdmi-rpi4-latest.img.xz).
 | **[>>> PCB front <<<](#diy-getting-started)** | **[>>> PCB front <<<](#pikvm-v3-hat)** |
 | --------------------------------------------- | ------------------------------------------ |
 | [Test video by **Jeff Geerling**](https://www.youtube.com/watch?v=3OPd7svT3bE&t=856s) | [BLIKVM Unboxing video](https://www.youtube.com/watch?v=aehOawHklGE&t=37s) |
