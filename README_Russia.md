@@ -56,14 +56,14 @@ BLIKVM — это прикладная плата CM4 для [PiKVM](https://pik
 
 15.Крепление вычислительного модуля CM4
 
-## 3.3.	Контакты
+## 3.Контакты
 Если вы заинтересованы в этом оборудовании, пожалуйста, напишите мне в любое время.
 
 адрес электронной почты:linshuzi123@gmail.com
 
 <a href="https://discord.gg/9Y374gUF6C" target="_blank">Чат сообщества Discord</a> 
 
-## 4.4.	Тестовое видео
+## 4.Тестовое видео
 https://www.youtube.com/watch?v=aehOawHklGE
 https://www.youtube.com/watch?v=d7I9l5yG5M8
 
@@ -76,6 +76,6 @@ https://www.youtube.com/watch?v=d7I9l5yG5M8
 Покупка：<a href="https://www.aliexpress.com/item/1005003793429781.html?spm=a2g0o.productlist.0.0.32da2b63A98QAp&algo_pvid=17cd48f6-7616-4128-9bb4-9246eb25bf1f&algo_exp_id=17cd48f6-7616-4128-9bb4-9246eb25bf1f-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000027184842775%22%7D&pdp_pi=-1%3B5.01%3B-1%3B3.82%40salePrice%3BUSD%3Bsearch-mainSearch" target="_blank">USB splitter</a>  
 Покупка：<a href="https://www.aliexpress.com/item/1005002861310912.html?spm=5261.ProductManageOnline.0.0.419d4edf1s8xR0" target="_blank">HMDI to CSI board</a>
 
-## 6.6.	Благодарности
+## 6.Благодарности
 BLIKVM был бы невозможен без отличной и щедрой работы многих проектов с открытым исходным кодом, наиболее известные из которых перечислены ниже: 
 <a href="https://github.com/pikvm/pikvm" target="_blank">pikvm</a>
