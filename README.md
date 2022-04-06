@@ -19,10 +19,10 @@ BLIKVM — это прикладная плата CM4 для [PiKVM](https://pik
 | [Тестовое видео **Джеффа Герлинга**](https://www.youtube.com/watch?v=3OPd7svT3bE&t=856s) | [Видео распаковки BLIKVM](https://www.youtube.com/watch?v=aehOawHklGE&t=37s) |
 | <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/1-1.png"/> | <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/1-2.png"/> |
 
-## 2.Features
-| **[>>> PCB front <<<](#diy-getting-started)** | **[>>> PCB front <<<](#pikvm-v3-hat)** |
+## 2.Особенности
+| **[>>> Передняя панель платы <<<](#diy-getting-started)** | **[>>> Передняя панель платы <<<](#pikvm-v3-hat)** |
 | --------------------------------------------- | ------------------------------------------ |
-| <img src="/images/docs_image/2-1.png" alt="drawing"/> | <img src="/images/docs_image/2-2.png" alt="drawing"/> |
+| <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/2-1.png" alt="drawing"/> | <img src="https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/docs_image/2-2.png" alt="drawing"/> |
 
 Here is a brief introduction. For details, please click <a href="https://github.com/ThomasVon2021/pikvm-CM4-Board/wiki#features" target="_blank">WiKi</a>
 1. **HDMI IN** port with I2S
