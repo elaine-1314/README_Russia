@@ -8,7 +8,7 @@
 Это устройство помогает удаленно управлять серверами или рабочими станциями, независимо от состояния операционной системы или от того, установлена ли она. Присоединяйтесь к нашему  <a href="https://discord.com/invite/9Y374gUF6C" target="_blank">сообществу BLIKVM Discord</a> для поддержки, часто задаваемых вопросов и новостей! 
 Покупка：<a href="https://www.aliexpress.com/item/1005003262886521.html?spm=a2g0o.store_pc_allProduct.8148356.5.39cd62bejpZaWF" target="_blank">BLIKVM</a>
 
-![](/images/physical_img/blikvm8.jpg)
+![](https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/physical_img/blikvm8.jpg)
 
 ## 1.Introduction
 
