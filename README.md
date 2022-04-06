@@ -6,13 +6,14 @@
 
 Разработать аппаратное обеспечение на основе CM4 для pikvm:https://github.com/pikvm/pikvm.
 Это устройство помогает удаленно управлять серверами или рабочими станциями, независимо от состояния операционной системы или от того, установлена ли она. Присоединяйтесь к нашему  <a href="https://discord.com/invite/9Y374gUF6C" target="_blank">сообществу BLIKVM Discord</a> для поддержки, часто задаваемых вопросов и новостей! 
+
 Покупка：<a href="https://www.aliexpress.com/item/1005003262886521.html?spm=a2g0o.store_pc_allProduct.8148356.5.39cd62bejpZaWF" target="_blank">BLIKVM</a>
 
 ![](https://github.com/ThomasVon2021/pikvm-CM4-Board/blob/main/images/physical_img/blikvm8.jpg)
 
-## 1.Introduction
+## 1.Введение
 
-BLIKVM is a CM4 application board for [PiKVM](https://pikvm.org/).  This product’s key features include video capture, ATX adapter, USB 3.0, OTG, Gigabit Ethernet, OLED and RTC. The product has a customized metal shell to dissipate heat and provide protection for the circuit board. This is a feature demonstration [video](https://www.youtube.com/watch?v=d7I9l5yG5M8).The product is currently perfectly compatible with  [**v3-hdmi-rpi4-latest.img**](https://files.pikvm.org/images/v3-hdmi-rpi4-latest.img.xz).
+BLIKVM — это прикладная плата CM4 для [PiKVM](https://pikvm.org/). Основные функции этого продукта включают захват видео, адаптер ATX, USB 3.0, OTG, Gigabit Ethernet, OLED и RTC. Продукт имеет индивидуальную металлическую оболочку для отвода тепла и защиты печатной платы. Это видео с демонстрацией возможностей.[video](https://www.youtube.com/watch?v=d7I9l5yG5M8).В настоящее время продукт полностью совместим с[**v3-hdmi-rpi4-latest.img**](https://files.pikvm.org/images/v3-hdmi-rpi4-latest.img.xz).
 | **[>>> PCB front <<<](#diy-getting-started)** | **[>>> PCB front <<<](#pikvm-v3-hat)** |
 | --------------------------------------------- | ------------------------------------------ |
 | [Test video by **Jeff Geerling**](https://www.youtube.com/watch?v=3OPd7svT3bE&t=856s) | [BLIKVM Unboxing video](https://www.youtube.com/watch?v=aehOawHklGE&t=37s) |
