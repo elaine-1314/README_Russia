@@ -67,7 +67,7 @@ BLIKVM — это прикладная плата CM4 для [PiKVM](https://pik
 https://www.youtube.com/watch?v=aehOawHklGE
 https://www.youtube.com/watch?v=d7I9l5yG5M8
 
-![](/images/test_img/figure1.png)
+![](https://github.com/elaine-1314/pikvm-CM4-Board/blob/main/images/test_img/figure1.png)
 
 
 ## 5.Дополнительная ссылка
